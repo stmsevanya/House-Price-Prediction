@@ -1,0 +1,37 @@
+Assignment a in mla.cpp
+	run: -> g++ -std=c++11 -o mla mla.cpp
+	     -> ./mla
+	
+	Graph: PartA_RMSE_vs_Regularization.png
+
+	Result (on Test Data): Printed on terminal
+
+
+Assignmnet b in mlb.cpp
+	run: -> g++ -std=c++11 -o mlb mlb.cpp
+	     -> ./mlb
+	
+	Graph: PartB_GradDescMethod.png
+
+	Result (on Test Data): Printed on terminal
+
+
+
+
+
+Assignmnet c in mlc.cpp
+	run: -> g++ -std=c++11 -o mlc mlc.cpp
+	     -> ./mlc
+
+	Graph: PartC_LinearCombination.png, PartC_QuadraticCombination.png, PartC_CubicCombination.png
+
+	Result (on Test Data): Printed on terminal
+
+
+Assignment d in mld.cpp
+	run: -> g++ -std=c++11 -o mld mld.cpp
+	     -> ./mld
+
+	Graph: PartD_AbsoluteError.png , PartD_SquaredError.png , PartD_CubedError.png
+
+	Result (on Test data): Printed on terminal
